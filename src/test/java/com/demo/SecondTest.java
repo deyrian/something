@@ -10,7 +10,7 @@ public class SecondTest {
     }
 
     @Test
-    void myTest02() {
+    void myTest102() {
 
     }
 }
