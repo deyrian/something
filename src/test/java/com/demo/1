@@ -1,0 +1,142 @@
+{,…}
+options
+:
+null
+pagingOptions
+:
+null
+params
+:
+{conditions: {condition: [{operator: "EQ", leftOperand: "PATIENT_ID", rightOperand: "28136259"},…]},…}
+conditions
+:
+{condition: [{operator: "EQ", leftOperand: "PATIENT_ID", rightOperand: "28136259"},…]}
+condition
+:
+[{operator: "EQ", leftOperand: "PATIENT_ID", rightOperand: "28136259"},…]
+0
+:
+{operator: "EQ", leftOperand: "PATIENT_ID", rightOperand: "28136259"}
+leftOperand
+:
+"PATIENT_ID"
+operator
+:
+"EQ"
+rightOperand
+:
+"28136259"
+1
+:
+{operator: "EQ", leftOperand: "STATUS", rightOperand: "SIGNED"}
+leftOperand
+:
+"STATUS"
+operator
+:
+"EQ"
+rightOperand
+:
+"SIGNED"
+2
+:
+{operator: "EQ", leftOperand: "CCT_CODE", rightOperand: "80098"}
+leftOperand
+:
+"CCT_CODE"
+operator
+:
+"EQ"
+rightOperand
+:
+"80098"
+3
+:
+{operator: "EQ", leftOperand: "CCT_CODE", rightOperand: "63059"}
+leftOperand
+:
+"CCT_CODE"
+operator
+:
+"EQ"
+rightOperand
+:
+"63059"
+4
+:
+{operator: "EQ", leftOperand: "CCT_CODE", rightOperand: "65076"}
+leftOperand
+:
+"CCT_CODE"
+operator
+:
+"EQ"
+rightOperand
+:
+"65076"
+5
+:
+{operator: "EQ", leftOperand: "CCT_CODE", rightOperand: "70080"}
+leftOperand
+:
+"CCT_CODE"
+operator
+:
+"EQ"
+rightOperand
+:
+"70080"
+6
+:
+{operator: "EQ", leftOperand: "CCT_CODE", rightOperand: "79083"}
+leftOperand
+:
+"CCT_CODE"
+operator
+:
+"EQ"
+rightOperand
+:
+"79083"
+7
+:
+{operator: "EQ", leftOperand: "CCT_CODE", rightOperand: "91051"}
+leftOperand
+:
+"CCT_CODE"
+operator
+:
+"EQ"
+rightOperand
+:
+"91051"
+8
+:
+{operator: "EQ", leftOperand: "CCT_CODE", rightOperand: "95851"}
+leftOperand
+:
+"CCT_CODE"
+operator
+:
+"EQ"
+rightOperand
+:
+"95851"
+9
+:
+{operator: "EQ", leftOperand: "CCT_CODE", rightOperand: "88100"}
+leftOperand
+:
+"CCT_CODE"
+operator
+:
+"EQ"
+rightOperand
+:
+"88100"
+orderClauses
+:
+{orderClause: []}
+orderClause
+:
+[]
